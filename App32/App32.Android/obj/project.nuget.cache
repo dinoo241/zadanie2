@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UErP5V/2RGHFhhhQFjELQq8gqNSGSJpOQW61wUvX2Zdg4bakXyaIwL4UBQNalvQRuY6fan0GG10epsUUTcsibQ==",
+  "dgSpecHash": "CRpmifdB+H7VNOR1oGiadMO3brAHQ2NG3+DbNzNBZXVGKT3ynmoi+Bw5+tm/LLMd7DAfbrHh/+VmdVvI7utHRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kubam\\source\\repos\\App32\\App32\\App32.Android\\App32.Android.csproj",
+  "projectFilePath": "C:\\Users\\kubam\\Desktop\\xamarin_zaliczenie\\App32\\App32\\App32.Android\\App32.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kubam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\kubam\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

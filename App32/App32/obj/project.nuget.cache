@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izgGFhhEhAR6weR89fiL7itC1lb9Ehhc1McmyhuBdHBNrntwjqHL8CIJ4sUnoxU9lacZ7RKDWYDqPG1wewFp7w==",
+  "dgSpecHash": "YqqhHxOl0EkHU7+bqRLSopFJ9BMkJsxqhK+wiaMCbFrmC7XMQd5SlKY8FFyRzsNf6RUCU6I4eSoH4f0Q7kwBKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kubam\\source\\repos\\App32\\App32\\App32\\App32.csproj",
+  "projectFilePath": "C:\\Users\\kubam\\Desktop\\xamarin_zaliczenie\\App32\\App32\\App32\\App32.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kubam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kubam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

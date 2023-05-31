@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638211560598961804
+_nugetassetstimestamp=638211705685153879
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\kubam\source\repos\app32\app32\app32.android\app32.android.csproj
+projectfullpath=c:\users\kubam\desktop\xamarin_zaliczenie\app32\app32\app32.android\app32.android.csproj

@@ -3458,11 +3458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kubam\\source\\repos\\App32\\App32\\App32.Android\\App32.Android.csproj",
+      "projectUniqueName": "C:\\Users\\kubam\\Desktop\\xamarin_zaliczenie\\App32\\App32\\App32.Android\\App32.Android.csproj",
       "projectName": "App32.Android",
-      "projectPath": "C:\\Users\\kubam\\source\\repos\\App32\\App32\\App32.Android\\App32.Android.csproj",
+      "projectPath": "C:\\Users\\kubam\\Desktop\\xamarin_zaliczenie\\App32\\App32\\App32.Android\\App32.Android.csproj",
       "packagesPath": "C:\\Users\\kubam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kubam\\source\\repos\\App32\\App32\\App32.Android\\obj\\",
+      "outputPath": "C:\\Users\\kubam\\Desktop\\xamarin_zaliczenie\\App32\\App32\\App32.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3483,8 +3483,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\kubam\\source\\repos\\App32\\App32\\App32\\App32.csproj": {
-              "projectPath": "C:\\Users\\kubam\\source\\repos\\App32\\App32\\App32\\App32.csproj"
+            "C:\\Users\\kubam\\Desktop\\xamarin_zaliczenie\\App32\\App32\\App32\\App32.csproj": {
+              "projectPath": "C:\\Users\\kubam\\Desktop\\xamarin_zaliczenie\\App32\\App32\\App32\\App32.csproj"
             }
           }
         }
@@ -3496,14 +3496,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
