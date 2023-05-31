@@ -1,0 +1,15 @@
+C:\Users\kubam\source\repos\App32\App32\App32\bin\Debug\netstandard2.0\App32.deps.json
+C:\Users\kubam\source\repos\App32\App32\App32\bin\Debug\netstandard2.0\App32.dll
+C:\Users\kubam\source\repos\App32\App32\App32\bin\Debug\netstandard2.0\App32.pdb
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App32.csproj.AssemblyReference.cache
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App32.AssemblyInfoInputs.cache
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App32.AssemblyInfo.cs
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App32.csproj.CoreCompileInputs.cache
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App32.dll
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\refint\App32.dll
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\App32.pdb
+C:\Users\kubam\source\repos\App32\App32\App32\obj\Debug\netstandard2.0\ref\App32.dll

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App32.MainPage">
+
+    <StackLayout BackgroundColor="#1c1c1c">
+        <Frame BackgroundColor="#615f61" Padding="24" CornerRadius="0">
+            <Label Text="Wybierz stacje!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Picker Title="Wybierz stację" SelectedIndexChanged="stacjaINFO"  x:Name="chooseStation" TitleColor="Gray" HorizontalOptions="CenterAndExpand" TextColor="White" FontSize="25">
+        </Picker>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nStacja" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nId" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nData" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nTemperatura" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nPredkosc" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nKierunek" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nSuma" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nCisnienie" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="10" Color="#c7c7c7"/>
+        <Label Text="" x:Name="nWilgotnosc" TextColor="white" FontSize="24"/>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="150" Color="#c7c7c7"/>
+
+
+    </StackLayout>
+
+</ContentPage>
